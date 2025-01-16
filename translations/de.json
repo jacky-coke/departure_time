@@ -1,0 +1,22 @@
+{
+  "title": "Abfahrtszeiten.Manager",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Abfahrtszeiten.Manager einrichten",
+        "description": "Richte die Integration ein, indem du die Auto-Entität angibst.",
+        "data": {
+          "auto_entitaet": "Auto-Entität"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Optionen",
+        "description": "Konfiguriere die Abfahrtszeiten-Logik."
+      }
+    }
+  }
+}

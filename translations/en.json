@@ -1,0 +1,22 @@
+{
+  "title": "Departure Time Manager",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Departure Time Manager",
+        "description": "Set up the integration by specifying your car entity.",
+        "data": {
+          "auto_entitaet": "Car entity"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Options",
+        "description": "Configure the departure times logic."
+      }
+    }
+  }
+}
