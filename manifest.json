@@ -1,0 +1,10 @@
+{
+  "domain": "departure_time_manager",
+  "name": "Departure Time Manager",
+  "version": "1.0.0",
+  "documentation": "https://github.com/jacky-coke/departure_time",
+  "dependencies": [],
+  "codeowners": ["@jacky-coke"],
+  "iot_class": "local_polling",
+  "requirements": []
+}
